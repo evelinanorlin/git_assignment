@@ -1,0 +1,22 @@
+footer{
+  background: gray;
+  height: 200px;
+  text-align: center;
+  padding-top: 50px;
+
+  h2{
+    text-transform: uppercase;
+    font-weight: 300;
+  }
+  a{
+    i{
+      font-size: 5rem;
+      color: black;
+      margin-left: 30px;
+      margin-right: 30px;
+    }
+  }
+  p{
+    font-size: 0.7rem;
+  }
+}
